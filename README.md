@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @marouaneduboc
-- 👀 I’m interested in anything that can help me to show my interpretation of reality
-- 🌱 I’m currently learning blender and unreal engine
-- 💞️ I’m looking at all collaboration opportunity
 - 📫 How to reach me : marouane.duboc@gmail.com
 
 <!---
